@@ -7,3 +7,5 @@ prueba de cambios
 
 
 Y esto de arriba es la foto de unas Suricatas.
+
+sigo aprendiendo de git
